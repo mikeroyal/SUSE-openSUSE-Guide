@@ -1,0 +1,1 @@
+# SUSE-openSUSE-Guide
