@@ -203,7 +203,7 @@ sudo susefirewall2-to-firewalld
 [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe) is a GTK system utility designed by Roberto Leinardi to provide information, control the fans and overclock your NVIDIA video card for better performance. Available in the Pop Shop as a Flatpak.
  <img src="https://user-images.githubusercontent.com/45159366/107091994-89974380-67b7-11eb-85ed-eedec7e3dfbf.png">
  
- [CoreCtrl](https://gitlab.com/corectrl/corectrl) is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, has basic CPU controls and full AMD GPUs controls (for both old and new models). 
+[CoreCtrl](https://gitlab.com/corectrl/corectrl) is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, has basic CPU controls and full AMD GPUs controls (for both old and new models). 
  
  Install the [CoreCtrl package from OBS](https://software.opensuse.org/download.html?project=home:Dead_Mozay&package=corectrl).
  
@@ -246,7 +246,30 @@ sudo susefirewall2-to-firewalld
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
- 
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
+   
 ## Wine
 
 [WINE(Wine Is Not an Emulator)](https://www.winehq.org) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
@@ -270,7 +293,7 @@ Open the terminal and run:
 sudo zypper qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/opensuse) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
