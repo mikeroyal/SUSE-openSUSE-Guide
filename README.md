@@ -293,7 +293,7 @@ Open the terminal and run:
 sudo zypper qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/opensuse) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
+[Sosumi](https://snapcraft.io/install/sosumi/opensuse) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
