@@ -212,10 +212,6 @@ sudo susefirewall2-to-firewalld
 
 [Steam on ArchWiki](https://wiki.archlinux.org/index.php/Steam)
 
-[Get Steam](https://store.steampowered.com/about/)
-
-**OR**
-
 [Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam)
 
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
@@ -349,6 +345,8 @@ sudo zypper qemu uml-utilities virt-manager gnome-boxes
 
 # Using Android and Android Apps
 
+[Back to the Top](https://github.com/mikeroyal/SUSE-openSUSE-Guide/blob/main/README.md#table-of-contents)
+
 [Android Studio](https://developer.android.com/studio/) is the development suite for Google's Android Operating System(OS). It's built on [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) software and designed specifically for Android development. It is available for download on Windows, macOS and Linux.
 
 <p align="center">
@@ -404,6 +402,8 @@ Local virtual devices with high performances.
 </p>
 
 # Machine Learning
+
+[Back to the Top](https://github.com/mikeroyal/SUSE-openSUSE-Guide/blob/main/README.md#table-of-contents)
 
 <img src="https://user-images.githubusercontent.com/45159366/108111395-756e0480-7049-11eb-85ca-b87315e9d3ef.jpeg">
 
