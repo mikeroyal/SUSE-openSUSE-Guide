@@ -20,7 +20,7 @@
 
 6. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/SUSE-openSUSE-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
 
-7. [Professional Audio/Video Editing](https://github.com/mikeroyal/SUSE-openSUSE-Guide/blob/main/README.md#professional-audio-video-editing)
+7. [Professional Audio/Video Editing](https://github.com/mikeroyal/SUSE-openSUSE-Guide/blob/main/README.md#professional-audio--video-editing)
 
 8. [Machine Learning](https://github.com/mikeroyal/SUSE-openSUSE-Guide/blob/main/README.md#machine-learning)
 
