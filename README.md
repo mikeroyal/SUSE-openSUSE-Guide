@@ -813,10 +813,6 @@ commercially available industrial robot models that you can import, visualize, a
 
 [Language Understanding (LUIS) for Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis)
 
-[ROS on Windows 10](https://ms-iot.github.io/ROSOnWindows/)
-
-[Windows ML ROS Node](https://ms-iot.github.io/ROSOnWindows/ROSAtMS/WinML.html)
-
 [Azure VM templates to bootstrap ROS and ROS 2 environments](https://ms-iot.github.io/ROSOnWindows/ROSAtMS/AzureVM.html)
 
 [Google Robotics Research](https://research.google/teams/brain/robotics/)
