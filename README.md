@@ -61,28 +61,15 @@
 
 
  <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439814-84a00000-6ae7-11eb-843c-7c1ecc4b60cf.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110253144-9f766080-7f3d-11eb-9a01-2ac6738637e9.png">
   <br />
   SUSE Linux Enterprise 12 Desktop
 </h1>
 
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439822-879af080-6ae7-11eb-9404-9f1113945c0e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110253145-a00ef700-7f3d-11eb-9b5c-d3cee3cbce84.png">
   <br />
   openSUSE Deskop
-</h1>
-
-## Installing KDE Plasma on openSUSE
-
-```sh
-sudo zypper install -t pattern kde kde_plasma
-```
-After Plasma is installed, you can log into it by simply logging out and selecting Plasma under Session Type at the login manager.
-
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439825-88cc1d80-6ae7-11eb-9271-f3d3345a3a42.png">
-  <br />
-  KDE Plasma Desktop on openSUSE
 </h1>
  
 
