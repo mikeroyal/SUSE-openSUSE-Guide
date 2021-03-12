@@ -1354,7 +1354,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 [Rkt](https://coreos.com/rkt/) is a pod-native container engine for Linux. It is composable, secure, and built on standards. 
 
 
-# DevOps
+# DevOps Development
 
 [Back to the Top](https://github.com/mikeroyal/SUSE-openSUSE-Guide/blob/main/README.md#table-of-contents)
 
