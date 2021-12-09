@@ -72,7 +72,7 @@
 
 [YaST](https://yast.opensuse.org/) is a installation and configuration tool for openSUSE and the SUSE Linux Enterprise distributions. It features an easy-to-use interface and powerful configuration capabilities.
 
-[Zypper](https://software.opensuse.org/package/zypper) is a command line package manager which makes use of libzypp. it provides functions like repository access, dependency solving, package installation, etc. Zypper repositories are similar to the ones used in YaST, which also makes use of libzypp.
+[Zypper](https://software.opensuse.org/package/zypper) is a command line package manager which makes use of libzypp. It provides functions like repository access, dependency solving, package installation, etc. Zypper repositories are similar to the ones used in YaST, which also makes use of libzypp.
 
 [KIWI Next Generation (KIWI NG)](https://osinside.github.io/kiwi/) is a command line utility to build Linux system appliances.
 
@@ -123,6 +123,13 @@ sudo susefirewall2-to-firewalld
 ## GNOME Software Center
 
 <img src="https://user-images.githubusercontent.com/45159366/107158830-71ebc680-6941-11eb-893f-be3ad3e1c830.png">
+
+## KDE Plasma Discover Center
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/145489252-1f6e11dc-d3ac-4fde-a29b-e2777b479aa2.png">
+  <br />
+</p>
 
 **Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
