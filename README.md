@@ -74,6 +74,12 @@
 
 [Zypper](https://software.opensuse.org/package/zypper) is a command line package manager which makes use of libzypp. It provides functions like repository access, dependency solving, package installation, etc. Zypper repositories are similar to the ones used in YaST, which also makes use of libzypp.
 
+[Btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) is a modern copy on write (CoW) filesystem for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. Its main features and benefits are:
+
+  - Snapshots which do not make the full copy of files.
+  - RAID - support for software-based RAID 0, RAID 1, RAID 10.
+  - Self-healing - checksums for data and metadata, automatic detection of silent data corruptions.
+
 [KIWI Next Generation (KIWI NG)](https://osinside.github.io/kiwi/) is a command line utility to build Linux system appliances.
 
 [openSUSE for WSL (Windows Subsystem for Linux)](https://en.opensuse.org/openSUSE:WSL)
