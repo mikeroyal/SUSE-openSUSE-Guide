@@ -130,7 +130,7 @@ sudo susefirewall2-to-firewalld
 
 <img src="https://user-images.githubusercontent.com/45159366/107158830-71ebc680-6941-11eb-893f-be3ad3e1c830.png">
 
-## KDE Plasma Discover Center
+## KDE Plasma Discover Software Center
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/145489252-1f6e11dc-d3ac-4fde-a29b-e2777b479aa2.png">
